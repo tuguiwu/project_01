@@ -1,0 +1,2 @@
+#忽略所有的testgitignore目录下的文件
+testgitignore/
